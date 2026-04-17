@@ -1,4 +1,4 @@
-package mian;
+package minimizer;
 
 public class Utils {
 
